@@ -27,6 +27,3 @@ License Terms:
 - 이 저장소의 코드는 JKMS 논문 부속자료로, 비영리적인 연구/교육/학습 용도로만 사용가능하며, 반드시 논문, 저자, JKMS 원문을 출처로 명시해야 합니다.
 - 상업적 이용/배포는 불가하며, 필요한 경우 반드시 JKMS(대한의학회) 별도 허가를 받아야 합니다.
 - 원 논문의 그림, 표 등은 JKMS 및 CC BY-NC 4.0 정책을 반드시 준수해야 합니다.
-
-
-This code is derived from a study published in JKMS under CC BY-NC 4.0 (non-commercial use only)

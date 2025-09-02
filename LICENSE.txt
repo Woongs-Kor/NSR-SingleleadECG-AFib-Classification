@@ -1,0 +1,32 @@
+Custom License for Source Code Associated with JKMS Article
+
+Copyright (c) 2024 Kim JW et al.
+
+This repository contains source code and supplementary materials developed in support of the article published in the Journal of Korean Medical Science (JKMS).
+
+This code is derived from a study published in JKMS under CC BY-NC 4.0 (non-commercial use only).
+
+License Terms:
+1. The source code in this repository is made available under the following conditions:
+    - Non-commercial use only: The code may be used, copied, modified, and distributed solely for non-commercial research, educational, or academic purposes.
+    - Attribution requirement: You must give appropriate credit to the paper and authors, provide a link to the JKMS article, and indicate if changes were made.
+    - No warranty is expressed or implied. The code is provided "as is".
+    - Any reuse, republication, or derivative work based on figures/tables/text from the original JKMS article must comply with the JKMS/CC BY-NC 4.0 license and be explicitly attributed as such.
+
+2. Commercial use (including but not limited to licensing, corporate applications, or integration with proprietary software) is NOT permitted without explicit written permission from the Korean Academy of Medical Sciences (KAMS). For inquiries: jkms@kams.or.kr
+
+3. The associated article is published under CC BY-NC 4.0:
+   See https://creativecommons.org/licenses/by-nc/4.0/
+
+4. If you use this code in academic publications, please cite the associated JKMS article:
+   "Identification of Atrial Fibrillation With Single-Lead Mobile ECG During Normal Sinus Rhythm Using Deep Learning, Kim JW et al., J Korean Med Sci. 2024 Feb 05;39(5):e56. DOI: 10.3346/jkms.2024.39.e56"
+
+5. This LICENSE supersedes other default open-source licenses (e.g., MIT, Apache) for this repository due to the original journal's policies.
+
+[한글 요약]
+- 이 저장소의 코드는 JKMS 논문 부속자료로, 비영리적인 연구/교육/학습 용도로만 사용가능하며, 반드시 논문, 저자, JKMS 원문을 출처로 명시해야 합니다.
+- 상업적 이용/배포는 불가하며, 필요한 경우 반드시 JKMS(대한의학회) 별도 허가를 받아야 합니다.
+- 원 논문의 그림, 표 등은 JKMS 및 CC BY-NC 4.0 정책을 반드시 준수해야 합니다.
+
+
+This code is derived from a study published in JKMS under CC BY-NC 4.0 (non-commercial use only)
